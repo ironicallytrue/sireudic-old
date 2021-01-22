@@ -1,1 +1,1 @@
-why are you here. [go back.](../index)
+why are you here. [go back.](../index.md)
