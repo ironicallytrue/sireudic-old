@@ -1,3 +1,3 @@
 Hello, World!
 
-[;-;](/test/abc.md)
+look at [nouns](/morphology/nouns.md)
